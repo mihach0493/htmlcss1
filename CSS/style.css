@@ -1,0 +1,14 @@
+/* Selektor znacznika */    
+h1{
+    color: white;
+    font-size: 1.8em;
+}
+body{
+    background-color: #808080
+}
+
+/* Selektor znacznika */  
+div {
+    color: #fea500;
+    font-size: 2.5em;
+}
