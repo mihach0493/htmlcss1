@@ -9,8 +9,10 @@ body {
 }
 
  
-  #taller, #shorter, #parent, #child {
+#taller, #shorter, #parent, #child {
+    margin-bottom: 10px;
     height: 100px;
     width: 150px;
     background-color:#fea500
+    
   }
